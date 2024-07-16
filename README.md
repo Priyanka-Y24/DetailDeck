@@ -18,6 +18,21 @@ DetailDeck is a contact management application built using Spring Boot and React
 
 ![Screenshot](./screenshot/sample.jpg)
 
+![Screenshot](./screenshot/ContactList.jpg)
+
+![Screenshot](./screenshot/NewContact.jpg)
+
+![Screenshot](./screenshot/SeeNewContact.jpg)
+
+![Screenshot](./screenshot/ContactDetails.jpg)
+
+![Screenshot](./screenshot/updatedContact.jpg)
+
+![Screenshot](./screenshot/updatedPhoto.jpg)
+
+![Screenshot](./screenshot/contactDeleted.jpg)
+
+
 ## Getting Started
 
 To run DetailDeck locally, follow these steps:
