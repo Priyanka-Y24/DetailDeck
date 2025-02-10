@@ -46,6 +46,7 @@ public class ContactResource {
 
     @GetMapping("/{id}")
     public ResponseEntity<Contact> getContact(@PathVariable(value = "id") String id) {
+        System.out.println("This is the id"+ id);
         return ResponseEntity.ok().body(contactService.getContact(id));
     }
 
